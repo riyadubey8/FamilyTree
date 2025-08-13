@@ -1,7 +1,7 @@
 This Java program models a simple family tree using object-oriented programming concepts such as inheritance, polymorphism, and method overriding.
 
 
-Overview
+Overview >>>
 
 
 The project consists of three main classes:
@@ -11,6 +11,7 @@ Person (Superclass) — Stores common attributes for all people, such as name, a
 Parent (Subclass of Person) — Stores a list of Child objects representing their children.
 
 Child (Subclass of Person) — Stores a list of Parent objects representing their parents.
+
 
 The program demonstrates:
 
@@ -23,7 +24,7 @@ Dynamic collections — Using ArrayList to store a variable number of children o
 Encapsulation — Private fields with getters/setters.
 
 
-Features
+Features:
 
 Add children to a parent and automatically store them in an ArrayList.
 
